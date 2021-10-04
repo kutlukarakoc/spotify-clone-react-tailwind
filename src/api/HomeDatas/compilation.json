@@ -1,0 +1,27 @@
+[
+    {
+        "picURL" : "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eba00b11c129b27a88fc72f36b/1/tr/default",
+        "text" : "Daily Mix 1",
+        "author" : "Eminem, Tyga"
+    },
+    {
+        "picURL" : "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb95fc4873061359df66ace6a4/2/tr/default",
+        "text" : "Daily Mix 2",
+        "author" : "Teoman, Athena"
+    },
+    {
+        "picURL" : "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb9cdc724b378fa05a8b4901b8/3/tr/default",
+        "text" : "Daily Mix 3",
+        "author" : "Tarkan, Manga"
+    },
+    {
+        "picURL" : "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb2a63987644aada18d4d847cd/4/tr/default",
+        "text" : "Daily Mix 4",
+        "author" : "Patron, Aspova"
+    },
+    {
+        "picURL" : "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb9d3b12f52a5b33b007c26db0/5/tr/default",
+        "text" : "Daily Mix 5",
+        "author" : "Sefo, ILKE"
+    }
+]

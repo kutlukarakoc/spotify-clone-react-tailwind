@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "text" : "Türkçe 90'lar",
+        "author" : "Koray K.",
+        "picURL" : "https://mosaic.scdn.co/300/ab67616d00001e0202be11d5d0d11d56f6e52076ab67616d00001e0241307e0b6ee53c6315e9723bab67616d00001e025b67b3ae4df66632026abe3bab67616d00001e02a102126c39174adc34808a07"
+    },
+    {
+        "id" : 2,
+        "text" : "90s",
+        "author" : "Tür",
+        "picURL" : "https://t.scdn.co/images/677dc880c48140e082f5a29aba3d4c1c"
+    },
+    {
+        "id" : 3,
+        "text" : "Chill Hits",
+        "author" : "tropicalfrnds",
+        "picURL" : "https://i.scdn.co/image/ab67706c0000da84fe6eabe3aa36b78cad9f92ec"
+    },
+    {
+        "id" : 4,
+        "text" : "Chill Furits Music",
+        "author" : "Sanatçı",
+        "picURL" : "https://i.scdn.co/image/ab6761610000f178f860fb65a2f3e561d43b311c"
+    },
+    {
+        "id" : 5,
+        "text" : "Music for Coding",
+        "author" : "Rafael Cardoso",
+        "picURL" : "https://i.scdn.co/image/ab67706c0000da8407bd15cc2c902af6604a2950"
+    }
+]

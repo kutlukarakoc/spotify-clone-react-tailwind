@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 0,
+        "picURL" : "https://mosaic.scdn.co/640/ab67616d00001e0214f976920e4c65de26c56614ab67616d00001e021511678a8a55731c28aa9e81ab67616d00001e02ecdad1ee6d530eb965d7c51eab67616d00001e02ef35c38cc9a9c5a5ca3281ac",
+        "name" : "Chill Musics"
+    },
+    {
+        "id" : 1,
+        "picURL" : "https://mosaic.scdn.co/640/ab67616d00001e0217771fd7ff7f8072e986eebdab67616d00001e02974a7c09a27d208acbd8c6f7ab67616d00001e02ad7ca1ef252e0d9207ff1182ab67616d00001e02ae03d01bd0a03f28f1866593",
+        "name" : "Rap"
+    },
+    {
+        "id" : 2,
+        "picURL" : "https://mosaic.scdn.co/640/ab67616d00001e0241307e0b6ee53c6315e9723bab67616d00001e024b5db2097749dbd8f61fa07dab67616d00001e029ae6f22ed5954cb61c19a356ab67616d00001e02a1f80a9561277bcc443c5d32",
+        "name" : "Pop"
+    },
+    {
+        "id" : 3,
+        "picURL" : "https://mosaic.scdn.co/640/ab67616d00001e022737be35cc5245eef495be90ab67616d00001e027ca563fd638aa8914ab525b8ab67616d00001e02b11078ee23dcd99e085ac33eab67616d00001e02d40499205930184daadc62c7",
+        "name" : "Classics"
+    },
+    {
+        "id" : 4,
+        "picURL" : "https://i.scdn.co/image/ab67616d00001e02e29df56b89ff0d609280faf8",
+        "name" : "For Coding"
+    },
+    {
+        "id" : 5,
+        "picURL" : "https://i.scdn.co/image/ab67616d0000b273639c2ed463dd10efffec0a81",
+        "name" : "Playlist 7"
+    },
+    {
+        "id" : 6,
+        "picURL" : "https://mosaic.scdn.co/640/ab67616d00001e0228b7e0c06ada6b6edbbc88d5ab67616d00001e022a07bf1912730d354453a4caab67616d00001e02850f1ca1cb97eb357537519fab67616d00001e02eb58d90d00146a98c91c892b",
+        "name" : "Turkish Delights"
+    },
+    {
+        "id" : 7,
+        "picURL" : "https://mosaic.scdn.co/640/ab67616d00001e0214f976920e4c65de26c56614ab67616d00001e021511678a8a55731c28aa9e81ab67616d00001e02ecdad1ee6d530eb965d7c51eab67616d00001e02ef35c38cc9a9c5a5ca3281ac",
+        "name" : "Playlist 8"
+    }
+]
